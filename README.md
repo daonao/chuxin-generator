@@ -8,6 +8,7 @@ https://github.com/daonao/chuxin-generator/commit/1f1cb85182992dd7b0c509346d366a
 git clone git@github.com:daonao/chuxin-generator.git
 cd chuxin-generator
 git submodule update --init
+git submodule foreach git checkout master
 cd gohugo-site
 ./gohugo-generate.sh
 ```
@@ -18,7 +19,6 @@ hugo server -D
 #### Submit
 ```bash
 cd ../public-repository
-git checkout master
 git add .
 git commit -m 'generate content'
 git push origin master
@@ -30,7 +30,7 @@ cd chuxin-generator
 git submodule add -b master git@github.com:daonao/chuxin.git public-repository
 mkdir public-repository/public
 cd gohugo-site
-ln -s ../public-repository/public public
+ln -s ../public-repository/docs public
 touch public/.gitkeep
 ```
 
