@@ -1,5 +1,39 @@
 # chuxin-generator
 
+## Step 4 : Generate content
+https://github.com/daonao/chuxin-generator/commit/1f1cb85182992dd7b0c509346d366af150d67dfd
+### You can generate content by the commands below
+#### generate
+```bash
+git clone git@github.com:daonao/chuxin-generator.git
+cd chuxin-generator
+git submodule update --init
+cd gohugo-site
+./gohugo-generate.sh
+```
+#### Test (optional)
+```bash
+hugo server -D
+```
+#### Submit
+```bash
+cd ../public-repository
+git checkout master
+git add .
+git commit -m 'generate content'
+git push origin master
+```
+### Operation commands for this step
+```bash
+git clone git@github.com:daonao/chuxin-generator.git
+cd chuxin-generator
+git submodule add -b master git@github.com:daonao/chuxin.git public-repository
+mkdir public-repository/public
+cd gohugo-site
+ln -s ../public-repository/public public
+touch public/.gitkeep
+```
+
 ## Step 3 : Play local
 https://github.com/daonao/chuxin-generator/commit/29cb73fb3fd181a26015e4de9c023410736e3984
 ### You can play locally by the commands below
