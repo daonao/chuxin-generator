@@ -9,3 +9,7 @@
 	path = content/kongqw/kongqw.github.io
 	url = https://github.com/kongqw/kongqw.github.io.git
 	branch = next
+[submodule "public-repository"]
+	path = public-repository
+	url = git@github.com:daonao/chuxin.git
+	branch = master
