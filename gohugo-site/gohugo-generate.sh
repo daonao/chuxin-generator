@@ -1,7 +1,7 @@
 run=1
 while [ $run -gt 0 ]; do
 echo ----------run----------
-err=$(hugo -D 2>&1 > /dev/null)
+err=$(hugo -DEF 2>&1 > /dev/null)
 echo ----------err----------
 echo "$err"
 run=0
