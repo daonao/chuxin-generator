@@ -13,3 +13,7 @@
 	path = public-repository
 	url = git@github.com:daonao/chuxin.git
 	branch = master
+[submodule "content/huzhenghui/public-article"]
+	path = content/huzhenghui/public-article
+	url = https://github.com/huzhenghui/public-article.git
+	branch = master
