@@ -1,5 +1,16 @@
 # chuxin-generator
 
+## Update Procedure
+### Preparation
+create a docker image named 'ssh-github'
+https://github.com/huzhenghui/Connecting-to-GitHub-with-SSH
+### Steps
+```bash
+git clone https://github.com/daonao/chuxin-generator.git
+cd chuxin-generator
+docker run --rm --entrypoint /bin/sh ssh-github -c "$(cat gohugo-site\gohugo-docker-commands.sh)"
+```
+
 ## Step 4 : Generate content
 https://github.com/daonao/chuxin-generator/commit/1f1cb85182992dd7b0c509346d366af150d67dfd
 ### You can generate content by the commands below
