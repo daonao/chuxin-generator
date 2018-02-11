@@ -19,23 +19,23 @@ paginate = 10
 
 [[menu.main]]
     name = "Home"
-    url  = "/"
+    url  = "/chuxin/"
     weight = 1
 
 [[menu.main]]
     name = "Blog"
-    url  = "/blog/"
+    url  = "/chuxin/blog/"
     weight = 2
 
 [[menu.main]]
     name = "FAQ"
     identifier = "faq"
-    url  = "/faq/"
+    url  = "/chuxin/faq/"
     weight = 3
 
 [[menu.main]]
     name = "Contact"
-    url  = "/contact/"
+    url  = "/chuxin/contact/"
     weight = 4
 
 # Top bar social links menu
@@ -65,7 +65,7 @@ paginate = 10
     pre = "<i class='fa fa-2x fa-envelope'></i>"
 
 [params]
-    viewMorePostLink = "/blog/"
+    viewMorePostLink = "/chuxin/blog/"
     author = "DevCows"
     defaultKeywords = ["devows", "hugo", "go"]
     defaultDescription = "Site template made by devcows using hugo"
