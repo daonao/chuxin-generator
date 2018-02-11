@@ -49,10 +49,16 @@ echo 1>&2 ;
 echo apk add hugo 1>&2 ;
 echo 1>&2 ;
 apk add hugo 1>&2 ;
+echo -------------------- theme hack begin -------------------- 1>&2 ;
+ln -s themes/universal/exampleSite/data data 1>&2 ;
+ln -s themes/universal/exampleSite/static static 1>&2 ;
+cp -RL content/posts content/blog 1>&2 ;
+echo -------------------- theme hack end -------------------- 1>&2 ;
 echo 1>&2 ;
 echo ./gohugo-generate.sh 1>&2 ;
 echo 1>&2 ;
 ./gohugo-generate.sh 1>&2 ;
+
 echo 1>&2 ;
 echo cd ../public-repository 1>&2 ;
 echo 1>&2 ;
