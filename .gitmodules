@@ -1,6 +1,3 @@
-[submodule "gohugo-themes/budparr/gohugo-theme-ananke"]
-	path = gohugo-themes/budparr/gohugo-theme-ananke
-	url = https://github.com/budparr/gohugo-theme-ananke.git
 [submodule "content/Thinkgamer/GitBlog"]
 	path = content/Thinkgamer/GitBlog
 	url = https://github.com/Thinkgamer/GitBlog.git
