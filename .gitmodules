@@ -14,9 +14,6 @@
 	path = content/huzhenghui/public-article
 	url = https://github.com/huzhenghui/public-article.git
 	branch = master
-[submodule "gohugo-themes/devcows/hugo-universal-theme"]
-	path = gohugo-themes/devcows/hugo-universal-theme
-	url = https://github.com/devcows/hugo-universal-theme.git
 [submodule "gohugo-themes/huzhenghui/hugo-universal-theme"]
 	path = gohugo-themes/huzhenghui/hugo-universal-theme
 	url = https://github.com/huzhenghui/hugo-universal-theme
