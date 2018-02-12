@@ -1,7 +1,7 @@
 baseURL = "https://daonao.github.io/chuxin/"
 languageCode = "zh-cn"
 title = "不忘初心"
-theme = "universal"
+theme = "huzhenghui-universal"
 themesDir = "./themes"
 # Site language. Available translations in the theme's `/i18n` directory.
 defaultContentLanguage = "zh-cn"
