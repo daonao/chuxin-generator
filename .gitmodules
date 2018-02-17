@@ -6,10 +6,6 @@
 	path = content/kongqw/kongqw.github.io
 	url = https://github.com/kongqw/kongqw.github.io.git
 	branch = next
-[submodule "public-repository"]
-	path = public-repository
-	url = git@github.com:daonao/chuxin.git
-	branch = master
 [submodule "content/huzhenghui/public-article"]
 	path = content/huzhenghui/public-article
 	url = https://github.com/huzhenghui/public-article.git
@@ -17,3 +13,7 @@
 [submodule "gohugo-themes/huzhenghui/hugo-universal-theme"]
 	path = gohugo-themes/huzhenghui/hugo-universal-theme
 	url = https://github.com/huzhenghui/hugo-universal-theme
+[submodule "public-repository"]
+	path = public-repository
+	url = https://github.com/daonao/chuxin.git
+	branch = master
