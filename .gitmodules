@@ -13,7 +13,3 @@
 [submodule "gohugo-themes/huzhenghui/hugo-universal-theme"]
 	path = gohugo-themes/huzhenghui/hugo-universal-theme
 	url = https://github.com/huzhenghui/hugo-universal-theme
-[submodule "public-repository"]
-	path = public-repository
-	url = https://github.com/daonao/chuxin.git
-	branch = master
