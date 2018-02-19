@@ -88,16 +88,11 @@ paginate = 10
     url = "https://user.qzone.qq.com/443089607"
     pre = "<i class='fa fa-2x fa-qq'></i>"
 
-[[menu.topbar]]
-    weight = 9
-    name = "Skype"
-    url = "skype:huzhenghui?add"
-    pre = "<i class='fa fa-2x fa-skype'></i>"
 
 [[menu.topbar]]
-    weight = 10
-    name = "http://weibo.com/huzhenghui"
-    url = ""
+    weight = 9
+    name = "Weibo"
+    url = "http://weibo.com/huzhenghui"
     pre = "<i class='fa fa-2x fa-weibo'></i>"
 
 
