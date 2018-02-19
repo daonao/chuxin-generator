@@ -1,8 +1,8 @@
 baseURL = "https://chuxinshequ.github.io/"
-languageCode = "zh-cn"
 title = "不忘初心"
 theme = "huzhenghui-universal"
 themesDir = "./themes"
+languageCode = "zh-cn"
 # Site language. Available translations in the theme's `/i18n` directory.
 defaultContentLanguage = "zh"
 # Enable comments by entering your Disqus shortname
@@ -18,7 +18,7 @@ paginate = 10
 # Main menu
 
 [[menu.main]]
-    name = "Home"
+    name = "home"
     url  = "/"
     weight = 1
 
