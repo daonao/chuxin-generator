@@ -61,7 +61,7 @@ paginate = 10
 [[menu.topbar]]
     weight = 4
     name = "Email"
-    url = "mailto:your@email.com"
+    url = "mailto:hu@daonao.com"
     pre = "<i class='fa fa-2x fa-envelope'></i>"
 
 [[menu.topbar]]
@@ -69,6 +69,37 @@ paginate = 10
     name = "Bitbucket"
     url = "https://bitbucket.org/huzhenghui/"
     pre = "<i class='fa fa-2x fa-bitbucket'></i>"
+
+[[menu.topbar]]
+    weight = 6
+    name = "Docker"
+    url = "https://hub.docker.com/r/huzhenghui"
+    pre = "<i class='fa fa-2x fa-docker'></i>"
+
+[[menu.topbar]]
+    weight = 7
+    name = "LinkedIn"
+    url = "https://www.linkedin.com/in/huzhenghui/"
+    pre = "<i class='fa fa-2x fa-linkedin'></i>"
+
+[[menu.topbar]]
+    weight = 8
+    name = "QQ"
+    url = "https://user.qzone.qq.com/443089607"
+    pre = "<i class='fa fa-2x fa-qq'></i>"
+
+[[menu.topbar]]
+    weight = 9
+    name = "Skype"
+    url = "skype:huzhenghui?add"
+    pre = "<i class='fa fa-2x fa-skype'></i>"
+
+[[menu.topbar]]
+    weight = 10
+    name = "http://weibo.com/huzhenghui"
+    url = ""
+    pre = "<i class='fa fa-2x fa-weibo'></i>"
+
 
 [params]
     viewMorePostLink = "/blog/"
