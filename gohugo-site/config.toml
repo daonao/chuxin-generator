@@ -93,7 +93,7 @@ paginate = 10
     weight = 9
     name = "Weibo"
     url = "http://weibo.com/huzhenghui"
-    pre = "<i class='fa fa-2x fa-weibo'></i>"
+    pre = "<i class='fab fa-2x fa-weibo'></i>"
 
 
 [params]
