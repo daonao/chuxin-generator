@@ -43,7 +43,7 @@ paginate = 10
 [[menu.topbar]]
     weight = 1
     name = "GitHub"
-    url = "https://github.com/daonao/chuxin"
+    url = "https://github.com/chuxinshequ/chuxinshequ.github.io"
     pre = "<i class='fa fa-2x fa-github'></i>"
 
 [[menu.topbar]]
@@ -63,6 +63,12 @@ paginate = 10
     name = "Email"
     url = "mailto:your@email.com"
     pre = "<i class='fa fa-2x fa-envelope'></i>"
+
+[[menu.topbar]]
+    weight = 5
+    name = "Bitbucket"
+    url = "https://bitbucket.org/huzhenghui/"
+    pre = "<i class='fa fa-2x fa-bitbucket'></i>"
 
 [params]
     viewMorePostLink = "/blog/"
