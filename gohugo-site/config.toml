@@ -4,7 +4,7 @@ title = "不忘初心"
 theme = "huzhenghui-universal"
 themesDir = "./themes"
 # Site language. Available translations in the theme's `/i18n` directory.
-defaultContentLanguage = "zh-cn"
+defaultContentLanguage = "zh"
 # Enable comments by entering your Disqus shortname
 disqusShortname = "devcows"
 # Enable Google Analytics by entering your tracking code
