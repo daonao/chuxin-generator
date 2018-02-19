@@ -62,7 +62,7 @@ paginate = 10
     weight = 4
     name = "Email"
     url = "mailto:hu@daonao.com"
-    pre = "<i class='fab fa-2x fa-envelope'></i>"
+    pre = "<i class='fa fa-2x fa-envelope'></i>"
 
 [[menu.topbar]]
     weight = 5
