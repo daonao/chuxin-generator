@@ -130,6 +130,7 @@ paginate = 10
     date_format = "January 2, 2006"
 
     logo = "img/logo200x50.png"
+    logo_small = "img/logo100x25.png"
     address = """<p><strong>Universal Ltd.</strong>
         <br>13/25 New Avenue
         <br>Newtown upon River
