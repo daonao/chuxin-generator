@@ -149,8 +149,6 @@ paginate = 10
 [params.topbar]
     enable = true
     text = """<p class="hidden-sm hidden-xs">联系我 QQ: 443089607 微信: huzhenghui 微博: @胡争辉 邮件: hu@daonao.com</p>
-      <p class="hidden-md hidden-lg"><a href="#" data-animate-hover="pulse"><i class="fa fa-phone"></i></a>
-      <a href="#" data-animate-hover="pulse"><i class="fa fa-envelope"></i></a>
       </p>
       """
 
