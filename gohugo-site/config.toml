@@ -39,6 +39,7 @@ paginate = 10
 
 [[menu.main]]
     name = "Contact"
+#    url  = "/contact.html"
     url  = "/contact/"
     weight = 4
 
