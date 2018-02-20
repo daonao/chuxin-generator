@@ -136,13 +136,7 @@ paginate = 10
 
     logo = "img/logo200x50.PNG"
     logo_small = "img/logo100x25.PNG"
-    address = """<p><strong>Universal Ltd.</strong>
-        <br>13/25 New Avenue
-        <br>Newtown upon River
-        <br>45Y 73J
-        <br>England
-        <br>
-        <strong>Great Britain</strong>
+    address = """<p><strong>中国</strong>
       </p>
       """
     latitude = "-12.043333"
