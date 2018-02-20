@@ -128,7 +128,7 @@ paginate = 10
     # Enable the contact form by entering your Formspree.io email
     email = "hu@daonao.com"
 
-    about_us = "<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>"
+    about_us = "<p>一群结识于互联网的技术宅</p>"
     copyright = "Copyright (c) 2015 - 2016, YourCompany; all rights reserved."
 
     # Format dates with Go's time formatting
