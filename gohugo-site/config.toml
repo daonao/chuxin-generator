@@ -129,7 +129,7 @@ paginate = 10
     email = "hu@daonao.com"
 
     about_us = "<p>一群结识于互联网的技术宅</p>"
-    copyright = "Copyright (c) 2015 - 2016, YourCompany; all rights reserved."
+    copyright = "本站聚合自群友公开发表的内容，版权归属于各位作者。"
 
     # Format dates with Go's time formatting
     date_format = "January 2, 2006"
