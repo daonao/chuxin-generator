@@ -33,7 +33,8 @@ paginate = 10
 [[menu.main]]
     name = "FAQ"
     identifier = "faq"
-    url  = "/faq/"
+#    url  = "/faq/"
+    url  = "/faq.html"
     weight = 3
 
 [[menu.main]]
