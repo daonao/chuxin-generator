@@ -15,9 +15,9 @@ id = "contact"
 * GitHub [https://github.com/huzhenghui](https://github.com/huzhenghui)
 * Facebook **TODO**
 * Twitter **TODO**
-* Bitbucket [https://bitbucket.org/huzhenghui/](https://bitbucket.org/huzhenghui/)
+* Bitbucket [https://bitbucket.org/huzhenghui](https://bitbucket.org/huzhenghui)
 * Docker [https://hub.docker.com/r/huzhenghui](https://hub.docker.com/r/huzhenghui)
-
-
+* LinkedIn [https://www.linkedin.com/in/huzhenghui](https://www.linkedin.com/in/huzhenghui)
 * 微信 huzhenghui
+
 ![微信](weixin-hu.jpg)
