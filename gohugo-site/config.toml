@@ -8,7 +8,9 @@ defaultContentLanguage = "zh"
 
 uglyurls = true
 # Enable comments by entering your Disqus shortname
-disqusShortname = "devcows"
+
+# disqusShortname = "devcows"
+
 # Enable Google Analytics by entering your tracking code
 googleAnalytics = ""
 
