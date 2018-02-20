@@ -134,8 +134,8 @@ paginate = 10
     # Format dates with Go's time formatting
     date_format = "January 2, 2006"
 
-    logo = "img/logo200x50.PNG"
-    logo_small = "img/logo100x25.PNG"
+    logo = "img/logo180x45.PNG"
+    logo_small = "img/logo80x20.PNG"
     address = """<p><strong>中国</strong>
       </p>
       """
