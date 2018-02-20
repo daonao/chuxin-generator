@@ -15,3 +15,5 @@ keywords = ["FAQ"]
 # MARKDOWN TABLES SAMPLE 表格示例
 
 [Markdown Tables Sample 表格示例](https://chuxinshequ.github.io/blog/2018/01/30/markdown-tables-sample/)
+
+更新：2018年2月20日14点18分
