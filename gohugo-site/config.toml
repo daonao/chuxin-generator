@@ -5,6 +5,8 @@ themesDir = "./themes"
 languageCode = "zh-cn"
 # Site language. Available translations in the theme's `/i18n` directory.
 defaultContentLanguage = "zh"
+
+uglyurls = true
 # Enable comments by entering your Disqus shortname
 disqusShortname = "devcows"
 # Enable Google Analytics by entering your tracking code
